@@ -214,6 +214,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Robert Marchiori";
 				TargetAttributes = {
+					D447945F18DD235200A21352 = {
+						DevelopmentTeam = MA7LQD78P2;
+					};
 					D447948A18DD235300A21352 = {
 						TestTargetID = D447945F18DD235200A21352;
 					};
@@ -404,6 +407,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Tanked/Tanked-Prefix.pch";
 				INFOPLIST_FILE = "Tanked/Tanked-Info.plist";
@@ -418,6 +422,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Tanked/Tanked-Prefix.pch";
 				INFOPLIST_FILE = "Tanked/Tanked-Info.plist";
